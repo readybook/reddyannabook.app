@@ -1,0 +1,61 @@
+.elementor-1083 .elementor-element.elementor-element-bf5ca18{--display:flex;--background-transition:0.3s;}.elementor-1083 .elementor-element.elementor-element-aea39dd{--display:flex;--min-height:100vh;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--background-transition:0.3s;}@media(min-width:768px){.elementor-1083 .elementor-element.elementor-element-aea39dd{--content-width:560px;}}/* Start custom CSS for html, class: .elementor-element-8cc83a1 */.signUpUi {
+    font-family: sans-serif;
+    background: #6D081D;
+    padding: unset !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 10px;
+    border: 2px solid #fff;
+}
+.head-title {
+    color: #e5cb63;
+    text-align: center;
+}
+.text-center {
+    text-align: center!important;
+    padding: 40px 0 0 0;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.signUpUi form {
+    background: #6D081D;
+    box-shadow: none;
+    border: 1px solid #6D081D;
+    transition: all 0.3s ease;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+
+.signUpUi form .form-group input {
+    background: none;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0;
+}
+
+.signUpNew_info {
+  justify-content: center;
+}
+
+
+.signUpUi form .btn-primary {
+    width: 46%;
+    line-height: 2;
+    text-transform: uppercase;
+    margin: 0 auto;
+    border-radius: 25px;
+    margin-top: 20px !important;
+    display: block;
+    border-color: #c10930;
+    background-color: #c10930;
+}/* End custom CSS */
